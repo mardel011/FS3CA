@@ -13,7 +13,3 @@ Instructions for Deployment:
 6) Visit Address "localhost:3001" in a Browser
 7) Select a Room at the Top of the Page Before Further Operation
 8) Happy Chatting :)
-
-[OPTIONAL]
-Heroku URL: 
-https://murmuring-coast-17637.herokuapp.com/ | https://git.heroku.com/murmuring-coast-17637.git
